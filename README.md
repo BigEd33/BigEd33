@@ -1,6 +1,6 @@
 # Hello there! :wave:
 
-I'm **BigEd**, I am a hobbiyst backend developer, I specialize in Javascript, NodeJS to be exact, while also doing React on the side.
+I'm **BigEd**, I am a hobbyist backend developer, I specialize in Javascript, NodeJS to be exact, while also doing React on the side.
 
 > There isn't much to see on here, most of my activity here is on private repositories.
 ---
