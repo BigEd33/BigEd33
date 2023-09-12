@@ -1,3 +1,13 @@
-[![My Skills](https://skillicons.dev/icons?i=js,css,cs,c,cloudflare,discord,electron,express,git,lua,mongodb,nodejs)](https://skillicons.dev)
+# Hello there! :wave:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BigEd33)](https://github.com/ryo-ma/github-profile-trophy)
+I'm **BigEd**, I am a hobbiyst backend developer, I specialize in Javascript, NodeJS to be exact, while also doing React on the side.
+
+> There isn't much to see on here, most of my activity here is on private repositories.
+---
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,electron,express,lua,bots,tailwind,css,cs,c,react,mongodb&perline=4&)](https://skillicons.dev)
+
+<details>
+  <summary>Skill Trophies</summary>
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=BigEd33&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+</details>
