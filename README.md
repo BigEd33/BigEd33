@@ -4,7 +4,7 @@ I'm **BigEd**, I am a hobbyist backend developer, I specialize in Javascript, No
 
 > There isn't much to see on here, most of my activity on my actual projects is on private repositories.
 ---
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,electron,express,lua,bots,tailwind,css,cs,c,react,mongodb&perline=4&)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,electron,express,lua,bots,tailwind,css,cs,cpp,react,mongodb&perline=4&)](https://skillicons.dev)
 
 <details>
   <summary>Skill Trophies</summary>
