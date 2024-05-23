@@ -1,6 +1,8 @@
 # Hello there! :wave:
 
-I'm **BigEd**, I am a hobbyist backend developer, I specialize mainly in Javascript while also working in C++, C#, and Lua. I also do the occasional frontend work with React/React Native.
+I'm **BigEd**, I am a hobbyist backend/embedded developer, I specialize mainly in Javascript while also working in C++, C#, and Lua. I also do the occasional frontend work with React/React Native.
+
+You can contact me via Discord, listed on my GitHub site.
 
 > There isn't much to see on here, most of my activity on my actual projects is on private repositories.
 ---
